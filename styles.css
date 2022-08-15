@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+    color: rgb(187, 120, 120);
+    background-color: rgb(99, 19, 35);
+    display: block;
+    width: 800px;
+    margin: 100px auto;
+}
+h1:hover{
+    background-color: rgb(193, 29, 68);
+}
+.web{
+    line-height:8rem;
+    text-align: center;
+    color: rgb(178, 14, 14);
+    font-size: large;
+}
+.p1{
+    display: inline-block;
+    font-size: small;
+    width: auto;
+    align-items: center;
+    margin-left: 40%;
+    margin-right: 50px;
+}
+.p2{
+    display: inline-block;
+    font-size: small;
+    width: auto;
+    align-items: center;
+}
+h2{
+    text-align: center;
+    color: brown;
+    border: solid;
+    background-color: rgb(203, 109, 109);
+    display: block;
+    width: 80px;
+    margin: 80px auto 10px;
+}
+
+body{
+    background-color: rgb(236, 142, 142);
+}
+img{
+    display: block;
+    width: 100px;
+    margin: 0px auto;
+}
